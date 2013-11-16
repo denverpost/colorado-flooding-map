@@ -1,0 +1,1292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>2013Coloradoflood-stories</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Aurora</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Aurora</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24079478/colorado-flood-aurora-residents-asked-stay-off-roads" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Aurora residents asked to stay off roads</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24079478/colorado-flood-aurora-residents-asked-stay-off-roads" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__expo_park_aurora_flooding~p1_200.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Heavy rains have snarled traffic, flooded streets and parks but not resulted in reports of casualties or structure damage, Mayor Steve Hogan said Thursday.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Aurora residents asked to stay off roads</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Heavy rains have snarled traffic, flooded streets and parks but not resulted in reports of casualties or structure damage, Mayor Steve Hogan said Thursday.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24079478/colorado-flood-aurora-residents-asked-stay-off-roads</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__expo_park_aurora_flooding~p1_200.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.703611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.820812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.820812,39.703611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lyons</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Lyons</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/ci_24072743/dam-break-threatens-lyons-residents-warned-go-higher" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Lyons cut off by flooding, divided into islands</a><h1>
+<a href="http://www.denverpost.com/ci_24072743/dam-break-threatens-lyons-residents-warned-go-higher" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site46/2013/0912/20130912__13tcalyo1_300.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Much of the Town of Lyons was submerged Thursday after the St. Vrain River spilled over its banks and barreled through neighborhoods.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Lyons cut off by flooding, divided into islands</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Much of the Town of Lyons was submerged Thursday after the St. Vrain River spilled over its banks and barreled through neighborhoods.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/ci_24072743/dam-break-threatens-lyons-residents-warned-go-higher</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site46/2013/0912/20130912__13tcalyo1_300.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.224611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.271812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.271812,40.224611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boulder</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Boulder</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24079087/boulder-creeks-flood-homes-swamp-cars-and-close" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Boulder creeks flood homes, swamp cars and close schools</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24079087/boulder-creeks-flood-homes-swamp-cars-and-close" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__boulder_colorado_flooding_sidewalk~p1_200.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Record-breaking rain turned normally quiet creeks into raging, brown torrents that swept through Boulder on Thursday, flooding homes, swamping cars and closing roads and schools.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Boulder creeks flood homes, swamp cars and close schools</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Record-breaking rain turned normally quiet creeks into raging, brown torrents that swept through Boulder on Thursday, flooding homes, swamping cars and closing roads and schools.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24079087/boulder-creeks-flood-homes-swamp-cars-and-close</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__boulder_colorado_flooding_sidewalk~p1_200.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.024611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.271812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.271812,40.024611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jamestown</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Jamestown</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24077853/colorado-flood-jamestown-residents-cant-evacuate-after-roads" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Jamestown residents can't evacuate after roads washed out</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24077853/colorado-flood-jamestown-residents-cant-evacuate-after-roads" target="_blank"><img src="http://mediacenter.smugmug.com/001-NEWS/World-News/2013-09-12-Major-Flooding-In/i-nMKVkTH/0/L/091213_colorado_flooding_67-L.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Residents of Jamestown have been ordered to evacuate, but all roads in and out of town are washed out so it's impossible to heed the warning for many, residents say.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Jamestown residents can't evacuate after roads washed out</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Residents of Jamestown have been ordered to evacuate, but all roads in and out of town are washed out so it's impossible to heed the warning for many, residents say.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24077853/colorado-flood-jamestown-residents-cant-evacuate-after-roads</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://mediacenter.smugmug.com/001-NEWS/World-News/2013-09-12-Major-Flooding-In/i-nMKVkTH/0/L/091213_colorado_flooding_67-L.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.115811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.387812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.387812,40.115811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Commerce City</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Commerce City</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24079454/commerce-city-neighborhood-evacuated-by-flood-threat" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Commerce City neighborhood evacuated</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24079454/commerce-city-neighborhood-evacuated-by-flood-threat" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__cam_breach_rocky_mountain_arsenal~p1.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Commerce City has ordered the evacuation of the neighborhood around Fairfax Park, including the Shady Lane Mobile Home Park, because a storm water retention pond is at capacity and expected to spill.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Commerce City neighborhood evacuated</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Commerce City has ordered the evacuation of the neighborhood around Fairfax Park, including the Shady Lane Mobile Home Park, because a storm water retention pond is at capacity and expected to spill.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24079454/commerce-city-neighborhood-evacuated-by-flood-threat</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__cam_breach_rocky_mountain_arsenal~p1.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.813611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.926812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.926812,39.813611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Larimer County</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Larimer County</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24079187/colorado-flood-evacuations-imminent-big-thompson-canyon" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Road collapse strands people in Big Thompson Canyon</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24079187/colorado-flood-evacuations-imminent-big-thompson-canyon" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site47/2013/0912/20130912_100832_0912130951b_500.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Boulders and erosion have closed U.S. 34 between Loveland and Estes Park, trapping residents along an 8-mile stretch of Big Thompson Canyon near the town of Drake.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Road collapse strands people in Big Thompson Canyon</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Boulders and erosion have closed U.S. 34 between Loveland and Estes Park, trapping residents along an 8-mile stretch of Big Thompson Canyon near the town of Drake.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24079187/colorado-flood-evacuations-imminent-big-thompson-canyon</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site47/2013/0912/20130912_100832_0912130951b_500.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.431811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.339812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.339812,40.431811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Longmont</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Longmont</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/ci_24072748/longmont-evacuates-residents-along-st-vrain-river" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Floodwaters divide Longmont</a><h1>
+<a href="http://www.denverpost.com/ci_24072748/longmont-evacuates-residents-along-st-vrain-river" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site46/2013/0912/20130912_103807_longmont4_300.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Longmont's city manager declared a state of emergency Thursday morning as the rapidly rising St. Vrain River and Left Hand Creek cut across the city, forcing the evacuation of neighborhoods and closing major streets. The city was cut in half by the roiling waters.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Floodwaters divide Longmont</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Longmont's city manager declared a state of emergency Thursday morning as the rapidly rising St. Vrain River and Left Hand Creek cut across the city, forcing the evacuation of neighborhoods and closing major streets. The city was cut in half by the roiling waters.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/ci_24072748/longmont-evacuates-residents-along-st-vrain-river</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site46/2013/0912/20130912_103807_longmont4_300.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.155811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.099812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.099812,40.155811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manitou Springs</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Manitou Springs</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24080334/colorado-flood-water-closes-all-roads-into-manitou-springs" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Water closes all roads into Manitou Springs</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24080334/colorado-flood-water-closes-all-roads-into-manitou-springs" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__manitou-springs-flooding~p1.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">All roads in and out of Manitou Springs are closed because of high water and flood danger. There are no mandatory evacuations.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Water closes all roads into Manitou Springs</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>All roads in and out of Manitou Springs are closed because of high water and flood danger. There are no mandatory evacuations.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24080334/colorado-flood-water-closes-all-roads-into-manitou-springs</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__manitou-springs-flooding~p1.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.862311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.914812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.914812,38.862311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Denver</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Denver</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24080659/colorado-flood-east-area-denver-evacuated-roads-closed" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">East area of Denver evacuated, roads closed by flood waters</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24080659/colorado-flood-east-area-denver-evacuated-roads-closed" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__Denver-spillway~p1_200.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">The National Weather Service extended a flash-flood warning for southern Denver County to 3:15 p.m. Crews are working to clear drains and roads as standing water and weather conditions continue to cause problems in some areas across the city.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>East area of Denver evacuated, roads closed by flood waters</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>The National Weather Service extended a flash-flood warning for southern Denver County to 3:15 p.m. Crews are working to clear drains and roads as standing water and weather conditions continue to cause problems in some areas across the city.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24080659/colorado-flood-east-area-denver-evacuated-roads-closed</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__Denver-spillway~p1_200.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.737311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.888812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.888812,39.737311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erie</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Erie</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/ci_24077322/flooding-prompts-evacuations-erie-community-center-serve-shelter" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Flooding prompts evacuations near Erie; community center to serve as shelter</a><h1>
+<a href="http://www.denverpost.com/ci_24077322/flooding-prompts-evacuations-erie-community-center-serve-shelter" target="_blank"><img src="http://mediacenter.smugmug.com/001-NEWS/World-News/2013-09-12-Major-Flooding-In/i-34htkXP/0/L/091213_colorado_flooding_53-L.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">People living north of the Kenosha Farm neighborhood in Erie, specifically homes on Buffalo Road and Westview, have been ordered to evacuate by Mountain View Fire Rescue and the Weld County Sheriff's Office.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Flooding prompts evacuations near Erie; community center to serve as shelter</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>People living north of the Kenosha Farm neighborhood in Erie, specifically homes on Buffalo Road and Westview, have been ordered to evacuate by Mountain View Fire Rescue and the Weld County Sheriff's Office.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/ci_24077322/flooding-prompts-evacuations-erie-community-center-serve-shelter</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://mediacenter.smugmug.com/001-NEWS/World-News/2013-09-12-Major-Flooding-In/i-34htkXP/0/L/091213_colorado_flooding_53-L.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.0605378</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.0587762</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.0587762,40.0605378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rocky Mountain National Park</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Rocky Mountain National Park</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24078753/colorado-flood-park-managers-warn-campers-at-rocky" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Park managers warn campers at Rocky Mountain National Park</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24078753/colorado-flood-park-managers-warn-campers-at-rocky" target="_blank"><img src="http://mediacenter.smugmug.com/001-NEWS/World-News/2013-09-12-Major-Flooding-In/i-g5S4jWx/0/L/091213_colorado_flooding_105-L.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Campgrounds at Rocky Mountain National Park remain open but managers are warning visitors to stay out of the east side of the park because of fears of flash flooding.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Park managers warn campers at Rocky Mountain National Park</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Campgrounds at Rocky Mountain National Park remain open but managers are warning visitors to stay out of the east side of the park because of fears of flash flooding.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24078753/colorado-flood-park-managers-warn-campers-at-rocky</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://mediacenter.smugmug.com/001-NEWS/World-News/2013-09-12-Major-Flooding-In/i-g5S4jWx/0/L/091213_colorado_flooding_105-L.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.464311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.637812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.637812,40.464311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estes Park</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Estes Park</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/ci_24079598/floodwaters-overwhelm-estes-park-sanitation-systems" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Floodwaters overwhelm Estes Park sanitation systems</a><h1>
+<a href="http://www.denverpost.com/ci_24079598/floodwaters-overwhelm-estes-park-sanitation-systems" target="_blank"><img src="http://mediacenter.smugmug.com/001-NEWS/World-News/2013-09-12-Major-Flooding-In/i-Wbb4pRL/0/L/091213_colorado_flooding_168-L.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Town of Estes Park officials said at noon today that the sanitation districts are overwhelmed with storm water and are evaluating the situation as rainfall in the area and flashflooding continues. Despite that, they say tap water is still safe to drink.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Floodwaters overwhelm Estes Park sanitation systems</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Town of Estes Park officials said at noon today that the sanitation districts are overwhelmed with storm water and are evaluating the situation as rainfall in the area and flashflooding continues. Despite that, they say tap water is still safe to drink.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/ci_24079598/floodwaters-overwhelm-estes-park-sanitation-systems</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://mediacenter.smugmug.com/001-NEWS/World-News/2013-09-12-Major-Flooding-In/i-Wbb4pRL/0/L/091213_colorado_flooding_168-L.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.378311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.514812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.514812,40.378311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colorado Springs</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Colorado Springs</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24082125/colorado-springs-flood-fatality-identified" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Colorado Springs flood fatality identified</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24082125/colorado-springs-flood-fatality-identified" target="_blank"><img height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Officials have identified the body of a man who was found in Colorado Springs early Thursday as heavy storms prompted floods across the state.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Colorado Springs flood fatality identified</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Officials have identified the body of a man who was found in Colorado Springs early Thursday as heavy storms prompted floods across the state.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24082125/colorado-springs-flood-fatality-identified</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.815311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.826812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.826812,38.815311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jamestown</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Jamestown</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24081769/jamestown-neighbors-fear-flooding-claimed-former-mercantile-owner" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Jamestown neighbors fear flooding claimed former Mercantile owner</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24081769/jamestown-neighbors-fear-flooding-claimed-former-mercantile-owner" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__Jamestown_tones~p1.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Jamestown residents say they are worried about the welfare of a man who has been missing since early Thursday after a roaring mudslide crushed his home.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Jamestown neighbors fear flooding claimed former Mercantile owner</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Jamestown residents say they are worried about the welfare of a man who has been missing since early Thursday after a roaring mudslide crushed his home.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24081769/jamestown-neighbors-fear-flooding-claimed-former-mercantile-owner</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__Jamestown_tones~p1.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.112311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.379812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.379812,40.112311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boulder County</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Boulder County</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24075101/boulder-flood-meteorologists-say-4-7-inches-fell" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Boulder registers wettest 24-hour period, and month, on record</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24075101/boulder-flood-meteorologists-say-4-7-inches-fell" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site21/2013/0912/20130912_020706_FLOOD3_500.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Prior to Wednesday, the single wettest day on record was July 31, 1919, when 4.80 inches of rain were recorded, according to Bob Henson, a science writer at the National Center for Atmospheric Research.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Boulder registers wettest 24-hour period, and month, on record</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Prior to Wednesday, the single wettest day on record was July 31, 1919, when 4.80 inches of rain were recorded, according to Bob Henson, a science writer at the National Center for Atmospheric Research.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24075101/boulder-flood-meteorologists-say-4-7-inches-fell</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site21/2013/0912/20130912_020706_FLOOD3_500.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.972311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.206812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.206812,39.972311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Northglen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Northglen</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24082419/storm-causes-some-crop-damage-but-provides-farmers" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Storm causes some crop damage, but provides farmers needed moisture</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24082419/storm-causes-some-crop-damage-but-provides-farmers" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__northglenn_flooding_tractor_colorado~p1.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">"As far as crops and fields go, for the most part it's a blessing," Wagner said. "But you hate to get caught up on yearly rainfall totals in a couple of days. You'd rather have it spread out over the year."</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Storm causes some crop damage, but provides farmers needed moisture</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>"As far as crops and fields go, for the most part it's a blessing," Wagner said. "But you hate to get caught up on yearly rainfall totals in a couple of days. You'd rather have it spread out over the year."</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24082419/storm-causes-some-crop-damage-but-provides-farmers</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__northglenn_flooding_tractor_colorado~p1.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.115311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.026812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.026812,40.115311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estes Park</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Estes Park</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24087043/ekhorn-under-water-downtown-estes-park" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Elkhorn under water in downtown Estes Park</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24087043/ekhorn-under-water-downtown-estes-park" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site28/2013/0913/20130913_095509_13epelkhorn%20and%20moraine_500.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">The historic flooding event that is occurring in Estes Park and all along the Front Range today is not over, according to multiple agencies.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Elkhorn under water in downtown Estes Park</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>The historic flooding event that is occurring in Estes Park and all along the Front Range today is not over, according to multiple agencies.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24087043/ekhorn-under-water-downtown-estes-park</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site28/2013/0913/20130913_095509_13epelkhorn%20and%20moraine_500.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.384811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.485812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.485812,40.384811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Denver</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Denver</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24087684/colorado-flood-denver-man-washed-into-culvert" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Seeing impaired man and his dog rescued from Denver culvert</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24087684/colorado-flood-denver-man-washed-into-culvert" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__colorado_flooding_denver~p1.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">A man and his dog were sucked down a drainage culvert in northeast Denver on Friday morning.
+
+The victim came out of the pipe a few blocks away and was treated at the scene before being taken to a local hospital.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Seeing impaired man and his dog rescued from Denver culvert</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>A man and his dog were sucked down a drainage culvert in northeast Denver on Friday morning.
+
+The victim came out of the pipe a few blocks away and was treated at the scene before being taken to a local hospital.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24087684/colorado-flood-denver-man-washed-into-culvert</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__colorado_flooding_denver~p1.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.736811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.885812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.885812,39.736811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sunshine Canyon</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Sunshine Canyon</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24079611/its-like-noahs-ark-sunshine-canyon-residents-survey" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">'It's like Noah's Ark': Sunshine Canyon residents survey flood damage near Boulder</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24079611/its-like-noahs-ark-sunshine-canyon-residents-survey" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site21/2013/0912/20130912_040855_road1_300.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Small streams and rivulets of water rushed down Sunshine Canyon Drive as residents surveyed the damage from flooding and heavy rain Thursday morning.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>'It's like Noah's Ark': Sunshine Canyon residents survey flood damage near Boulder</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Small streams and rivulets of water rushed down Sunshine Canyon Drive as residents surveyed the damage from flooding and heavy rain Thursday morning.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24079611/its-like-noahs-ark-sunshine-canyon-residents-survey</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site21/2013/0912/20130912_040855_road1_300.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.045311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.336812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.336812,40.045311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Broomfield</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Broomfield</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/colorado/ci_24079118/desperate-rock-creek-rescue-is-successful" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Desperate Rock Creek rescue is successful</a><h1>
+<a href="http://www.denverpost.com/colorado/ci_24079118/desperate-rock-creek-rescue-is-successful" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__broomfield_flooding_dillon_road~p1.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Lt. Rob Williams saw three vehicles in the rushing waters of Rock Creek when his North Metro Fire &amp; Rescue crew arrived after a section of Dillon Road collapsed in torrential rain Thursday morning.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Desperate Rock Creek rescue is successful</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Lt. Rob Williams saw three vehicles in the rushing waters of Rock Creek when his North Metro Fire &amp; Rescue crew arrived after a section of Dillon Road collapsed in torrential rain Thursday morning.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/colorado/ci_24079118/desperate-rock-creek-rescue-is-successful</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__broomfield_flooding_dillon_road~p1.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.957611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.090212</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.090212,39.957611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Thompson Canyon</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Big Thompson Canyon</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24079653/floodwaters-breach-hwy-34-two-places-big-thompson" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Floodwaters breach Hwy. 34 in two places in the Big Thompson Canyon</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24079653/floodwaters-breach-hwy-34-two-places-big-thompson" target="_blank"><img height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Larimer County officials are now saying that there are two breaches of U.S. Highway 34 in the Big Thompson Canyon.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Floodwaters breach Hwy. 34 in two places in the Big Thompson Canyon</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Larimer County officials are now saying that there are two breaches of U.S. Highway 34 in the Big Thompson Canyon.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24079653/floodwaters-breach-hwy-34-two-places-big-thompson</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.450311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.385812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.385812,40.450311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boulder County</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Boulder County</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24072038/boulder-county-broomfield-under-flash-flood-warning-major" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">'We are still in life-safety mode' as floodwaters top 12 dams, kill at least 2</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24072038/boulder-county-broomfield-under-flash-flood-warning-major" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site21/2013/0912/20130912__flood_400.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Emergency officials are braced for another night of flash flooding after torrential rainfall prompted 100-year flooding that has, so far, resulted in two confirmed deaths, at least one feared dead and National Guard rescue efforts in Lyons.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>'We are still in life-safety mode' as floodwaters top 12 dams, kill at least 2</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Emergency officials are braced for another night of flash flooding after torrential rainfall prompted 100-year flooding that has, so far, resulted in two confirmed deaths, at least one feared dead and National Guard rescue efforts in Lyons.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24072038/boulder-county-broomfield-under-flash-flood-warning-major</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site21/2013/0912/20130912__flood_400.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.072311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.01812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.01812,40.072311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rocky Mountain Arsenal</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Rocky Mountain Arsenal</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/environment/ci_24080336/dams-break-at-rocky-mountain-arsenal-and-larimer" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Dams break at Rocky Mountain Arsenal, Larimer County</a><h1>
+<a href="http://www.denverpost.com/environment/ci_24080336/dams-break-at-rocky-mountain-arsenal-and-larimer" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__cam_breach_rocky_mountain_arsenal~p1_200.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">A record-shattering rainstorm across Colorado's Front Range led to flooding that blew out as many as five dams Thursday, stranding a Larimer County family on the second floor of their home and breaching a federal stormwater holding pond northeast of Denver.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Dams break at Rocky Mountain Arsenal, Larimer County</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>A record-shattering rainstorm across Colorado's Front Range led to flooding that blew out as many as five dams Thursday, stranding a Larimer County family on the second floor of their home and breaching a federal stormwater holding pond northeast of Denver.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/environment/ci_24080336/dams-break-at-rocky-mountain-arsenal-and-larimer</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__cam_breach_rocky_mountain_arsenal~p1_200.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.832311</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.86812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.86812,39.832311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aurora</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Aurora</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24079478/colorado-flood-aurora-residents-asked-stay-off-roads" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Some stranded Aurora residents retrieved by rafts</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24079478/colorado-flood-aurora-residents-asked-stay-off-roads" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__expo_park_aurora_flooding~p1_200.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Heavy rains have snarled traffic, flooded streets and parks and swamped an apartment complex, requiring a water rescue Thursday.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Some stranded Aurora residents retrieved by rafts</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Heavy rains have snarled traffic, flooded streets and parks and swamped an apartment complex, requiring a water rescue Thursday.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24079478/colorado-flood-aurora-residents-asked-stay-off-roads</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0912/20130912__expo_park_aurora_flooding~p1_200.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.681611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.847212</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.847212,39.681611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morrison</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Morrison</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24088649/morrison-four-homes-evacuated-along-bear-creek" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Morrison: Four homes evacuated along Bear Creek</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24088649/morrison-four-homes-evacuated-along-bear-creek" target="_blank"><img height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Emergency workers evacuated four homes near the swollen banks of Bear Creek Friday morning, and were going door to door to warn residents about a possible dam break that could endanger the town.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Morrison: Four homes evacuated along Bear Creek</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Emergency workers evacuated four homes near the swollen banks of Bear Creek Friday morning, and were going door to door to warn residents about a possible dam break that could endanger the town.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24088649/morrison-four-homes-evacuated-along-bear-creek</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.650611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.195212</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.195212,39.650611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Longs Peak</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Longs Peak</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24088636/floods-hamper-rescue-efforts-hikers-stranded-longs-peak" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Floods hamper rescue efforts for hikers stranded on Longs Peak</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24088636/floods-hamper-rescue-efforts-hikers-stranded-longs-peak" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__suzanne_turrell~p1_200.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Search and rescue teams from Larimer and Boulder counties have launched efforts to aid two experienced mountaineers trapped below the summit of Longs Peak in icy conditions.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Floods hamper rescue efforts for hikers stranded on Longs Peak</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Search and rescue teams from Larimer and Boulder counties have launched efforts to aid two experienced mountaineers trapped below the summit of Longs Peak in icy conditions.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24088636/floods-hamper-rescue-efforts-hikers-stranded-longs-peak</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__suzanne_turrell~p1_200.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.254811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.615812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.615812,40.254811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kersey</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Kersey</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24089186/colorado-flood-officials-watch-high-water-kersey" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Officials watch high water near Kersey</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24089186/colorado-flood-officials-watch-high-water-kersey" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__weld-co-5~p1.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Concerns over a dam collapsing in Weld County's Latham Reservoir could force the entire town of Kersey to evacuate.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Officials watch high water near Kersey</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Concerns over a dam collapsing in Weld County's Latham Reservoir could force the entire town of Kersey to evacuate.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24089186/colorado-flood-officials-watch-high-water-kersey</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__weld-co-5~p1.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.390611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.555212</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.555212,40.390611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fort Collins, Loveland</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Fort Collins, Loveland</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24088546/colorado-flood-bridges-closed-fort-collins-loveland-by" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Bridges closed in Fort Collins, Loveland by high water</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24088546/colorado-flood-bridges-closed-fort-collins-loveland-by" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__first_street_loveland_colorado_flood~p1_200.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Fort Collins residents woke up Friday to closed schools and city and county offices, flooded streets, closed bridges and a river flowing at 100 times its normal flow.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Bridges closed in Fort Collins, Loveland by high water</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Fort Collins residents woke up Friday to closed schools and city and county offices, flooded streets, closed bridges and a river flowing at 100 times its normal flow.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24088546/colorado-flood-bridges-closed-fort-collins-loveland-by</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__first_street_loveland_colorado_flood~p1_200.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.450611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.063212</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.063212,40.450611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Evergreen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Evergreen</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24088590/colorado-floods-roads-washing-out-evergreen-residents-urged" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Evergreen: Downtown streets flooded</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24088590/colorado-floods-roads-washing-out-evergreen-residents-urged" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__Evergreen_Statue_and_Dam~p1_200.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Downtown streets were barricaded and most businesses closed Friday afternoon after floodwaters shut down roads and created dangerous conditions here.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Evergreen: Downtown streets flooded</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Downtown streets were barricaded and most businesses closed Friday afternoon after floodwaters shut down roads and created dangerous conditions here.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24088590/colorado-floods-roads-washing-out-evergreen-residents-urged</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0913/20130913__Evergreen_Statue_and_Dam~p1_200.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.654811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.295812</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.295812,39.654811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-2-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/movies.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Salina</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Salina</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://photos.denverpost.com/2013/09/14/video-flooding-in-colorado-devastates-salina-four-mile-canyon/" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Flooding in Colorado devastates Salina, Four Mile Canyon</a><h1>
+<a href="http://photos.denverpost.com/2013/09/14/video-flooding-in-colorado-devastates-salina-four-mile-canyon/" target="_blank"><img src="http://photos.denverpost.com/files/2013/09/thumb-vid1-114x114.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Leslie Martin and Matt Smart were awakened by a friend Thursday morning, September 12, with just enough time to put on shoes and grab their dogs before they fled their home as a wall of water filled with debris and vehicles swept down Gold Run Road.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Flooding in Colorado devastates Salina, Four Mile Canyon</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Leslie Martin and Matt Smart were awakened by a friend Thursday morning, September 12, with just enough time to put on shoes and grab their dogs before they fled their home as a wall of water filled with debris and vehicles swept down Gold Run Road.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://photos.denverpost.com/2013/09/14/video-flooding-in-colorado-devastates-salina-four-mile-canyon/</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://photos.denverpost.com/files/2013/09/thumb-vid1-114x114.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.050998</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.3626127</value>
+				</Data>
+				<Data name='icontype'>
+					<value>movies</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.3626127,40.050998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morgan County</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Morgan County</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24095452/colorado-flood-evacuations-begin-morgan-county" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Evacuations begin in Morgan County</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24095452/colorado-flood-evacuations-begin-morgan-county" target="_blank"><img height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">Mandatory evacuations have been ordered on both banks of the South Platte River in the eastern Morgan County, including the towns of Orchard, Goodrich and Weldona.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Evacuations begin in Morgan County</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>Mandatory evacuations have been ordered on both banks of the South Platte River in the eastern Morgan County, including the towns of Orchard, Goodrich and Weldona.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24095452/colorado-flood-evacuations-begin-morgan-county</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.331811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.117512</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.117512,40.331811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cedar Cove</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:250px;width:220px">
+<p style="font-weight:bold;text-transform:uppercase;font-size:11px;font-family:Helvetica,Arial,sans-serif;margin-bottom:2px;line-height:14px">Cedar Cove</p>
+<h1 style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px"><a href="http://www.denverpost.com/breakingnews/ci_24095897/colorado-floods-woman-believed-killed-cedar-cove" target="_blank" style="font-size:15px;font-weight:bold;font-family:Georgia,Times,serif;line-height:18px">Woman believed killed in Big Thompson River surge in Larimer County</a><h1>
+<a href="http://www.denverpost.com/breakingnews/ci_24095897/colorado-floods-woman-believed-killed-cedar-cove" target="_blank"><img src="http://extras.mnginteractive.com/live/media/site36/2013/0914/20130914__big_thompson_flood_colorado_johnstown~p1.jpg" height="60" border="0" style="vertical-align:top;float:left;margin:0 10px 10px 0;height:60px"></a>
+<p style="font-weight:normal;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px">A 60-year old woman is believed dead after a surge of water along the Big Thompson River canyon in Cedar Cove swept away a house along the bank in Cedar Cove early Friday, the Larimer County Sheriff's Office said Saturday morning.</p>
+</h1></h1></div>
+<div style="width:100%;height:0;clear:both;margin-bottom:12px"></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Title'>
+					<value>Woman believed killed in Big Thompson River surge in Larimer County</value>
+				</Data>
+				<Data name='Blurb'>
+					<value>A 60-year old woman is believed dead after a surge of water along the Big Thompson River canyon in Cedar Cove swept away a house along the bank in Cedar Cove early Friday, the Larimer County Sheriff's Office said Saturday morning.</value>
+				</Data>
+				<Data name='URL'>
+					<value>http://www.denverpost.com/breakingnews/ci_24095897/colorado-floods-woman-believed-killed-cedar-cove</value>
+				</Data>
+				<Data name='Thumbnail'>
+					<value>http://extras.mnginteractive.com/live/media/site36/2013/0914/20130914__big_thompson_flood_colorado_johnstown~p1.jpg</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.416811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.257512</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.257512,40.416811,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

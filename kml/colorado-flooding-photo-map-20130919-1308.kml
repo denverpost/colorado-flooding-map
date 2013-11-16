@@ -1,0 +1,2985 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Colorado Flooding Photo Map</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>EVANS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">EVANS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Junk Yard</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-x88VTkX/0/L/Aerial_FloodingTR2_6038x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Cars in a junk yard on 37th street in Evans Colorado Flooded BY THE South Platte River.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Junk Yard</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Cars in a junk yard on 37th street in Evans Colorado Flooded BY THE South Platte River.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-x88VTkX/0/L/Aerial_FloodingTR2_6038x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.377438</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.67075</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.67075,40.377438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVANS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">EVANS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Going Home</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-PNXrpvm/0/L/Aerial_FloodingTR2_6370x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">People walk through waist deep water in Eastwood Village trailer park carrying belongings recovered from flooded  homes</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Going Home</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>People walk through waist deep water in Eastwood Village trailer park carrying belongings recovered from flooded  homes</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-PNXrpvm/0/L/Aerial_FloodingTR2_6370x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.376825</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.678797</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.678797,40.376825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVANS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">EVANS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Flooded streets</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-mhv2WKx/0/L/Aerial_FloodingTR2_6120x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">People walk down 37th street in Evans Colorado, carrying belongings recovered from flooded  homes in the area.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Flooded streets</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>People walk down 37th street in Evans Colorado, carrying belongings recovered from flooded  homes in the area.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-mhv2WKx/0/L/Aerial_FloodingTR2_6120x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.377397</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.683326</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.683326,40.377397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GREELEY, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">GREELEY, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Missing Highway</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-WHmqrSg/0/L/Aerial_Flooding_TR38140x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">U.S.34 outside Greeley ripped apart by the South Platte River.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Missing Highway</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>U.S.34 outside Greeley ripped apart by the South Platte River.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-WHmqrSg/0/L/Aerial_Flooding_TR38140x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.393169</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.635727</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.635727,40.393169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVANS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">EVANS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Stacked up</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-Fn8VDVv/0/L/Aerial_FloodingTR2_5967x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">House trailers piled up by flood waters in a storage facility on Brantner Rd in Evans, CO.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Stacked up</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>House trailers piled up by flood waters in a storage facility on Brantner Rd in Evans, CO.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-Fn8VDVv/0/L/Aerial_FloodingTR2_5967x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.366825</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.700791</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.700791,40.366825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KERSEY, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">KERSEY, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">On the edge</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-7V8tmLx/0/L/Aerial_FloodingTR2_6869x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A unidentified man stands on County Road 61 a looks at the damage cause when South Platte River washed out a major part of the road.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>On the edge</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A unidentified man stands on County Road 61 a looks at the damage cause when South Platte River washed out a major part of the road.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-7V8tmLx/0/L/Aerial_FloodingTR2_6869x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.387424</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.488897</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.488897,40.387424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MILLIKEN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">MILLIKEN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Bringing the cows in</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-zx8qW9X/0/L/Aerial_FloodingTR2_5766x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Unidentified men on ATV's herd cattle from flooded pastures to safety outside Milliken.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Bringing the cows in</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Unidentified men on ATV's herd cattle from flooded pastures to safety outside Milliken.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-zx8qW9X/0/L/Aerial_FloodingTR2_5766x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.334333</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.802167</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.802167,40.334333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MILLIKEN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">MILLIKEN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Pushing through the flood</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-H9j7xJ9/0/L/Aerial_FloodingTR2_5750x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A unidentified man on ATV makes his way through pastureland outside Milliken.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Pushing through the flood</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A unidentified man on ATV makes his way through pastureland outside Milliken.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-H9j7xJ9/0/L/Aerial_FloodingTR2_5750x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.334343</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.802149</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.802149,40.334343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LAFAYETTE, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LAFAYETTE, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Washed out</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-KVQJC6N/0/L/CD12FLOODING_AC12248x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Three vehicles crashed into a creek close after the road washed out from beneath them near Dillon Rd. and 287 in Lafayette, Colorado, September 12, 2013 in heavy flooding. Three people were rescued.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Washed out</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Three vehicles crashed into a creek close after the road washed out from beneath them near Dillon Rd. and 287 in Lafayette, Colorado, September 12, 2013 in heavy flooding. Three people were rescued.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-KVQJC6N/0/L/CD12FLOODING_AC12248x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.960593</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.080656</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.080656,39.960593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Swollen</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-FG2DG3s/0/L/CD12FLOODING_AC12440x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Onlookers survey and take pictures of a rain swollen Boulder Creek at Folsom St. in Boulder Colorado, September 12, 2013 during heavy rain and flooding.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Swollen</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Onlookers survey and take pictures of a rain swollen Boulder Creek at Folsom St. in Boulder Colorado, September 12, 2013 during heavy rain and flooding.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-FG2DG3s/0/L/CD12FLOODING_AC12440x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.011487</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.26332</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.26332,40.011487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGMONT, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LONGMONT, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Main St.</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-cbGGSx9/0/L/CD12FLOODING_AC12658x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A driver negotiates heavy floodwater at the intersection of S. Main St. and Delaware Ave. in Longmont Colorado during heavy rain and flooding, the flooding is from the overflowing banks of the St. Vrain river September 12, 2103.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Main St.</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A driver negotiates heavy floodwater at the intersection of S. Main St. and Delaware Ave. in Longmont Colorado during heavy rain and flooding, the flooding is from the overflowing banks of the St. Vrain river September 12, 2103.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-cbGGSx9/0/L/CD12FLOODING_AC12658x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.154991</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.102534</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.102534,40.154991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Helping hand</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-6zjVf4C/0/L/CD14BOULDERFLOODING_AC13047x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Donnie Rivas, a church volunteer, rakes mud and personal belongings from friend, Chris Vacek's house on Juniper Ave in Boulder Colorado Friday morning, September 13, 2013. the Vacek's basement was a total loss, everything was taken out and driven to the dump.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Helping hand</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Donnie Rivas, a church volunteer, rakes mud and personal belongings from friend, Chris Vacek's house on Juniper Ave in Boulder Colorado Friday morning, September 13, 2013. the Vacek's basement was a total loss, everything was taken out and driven to the dump.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-6zjVf4C/0/L/CD14BOULDERFLOODING_AC13047x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.03762</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.283209</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.283209,40.03762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Safe</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-D9bGf37/0/L/CD16BLDRFLOODS_KO21688-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A  evacuee is helped off a chinook helicopter at the Boulder Municipal Airport Friday afternoon, September 13, 2013.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Safe</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A  evacuee is helped off a chinook helicopter at the Boulder Municipal Airport Friday afternoon, September 13, 2013.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-D9bGf37/0/L/CD16BLDRFLOODS_KO21688-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.037168</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.280684</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.280684,40.037168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOVELAND, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LOVELAND, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Raging</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-WXT9Qdc/0/L/CD15HELIFLOOD_BP33082x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">The Big Thompson River rages through the washed out Loveland Water Storage Reservoir in Larimer County Colorado Saturday morning, September 14, 2013.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Raging</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>The Big Thompson River rages through the washed out Loveland Water Storage Reservoir in Larimer County Colorado Saturday morning, September 14, 2013.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-WXT9Qdc/0/L/CD15HELIFLOOD_BP33082x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.424492</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.210582</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.210582,40.424492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOVELAND, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LOVELAND, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Fairgrounds Park</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-L2WrwvQ/0/L/CD15HELIFLOOD_BP32942x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Flood waters cut in-between a house and a stadium in Fairgrounds Park in Loveland Colorado Saturday morning, September 14, 2013.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Fairgrounds Park</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Flood waters cut in-between a house and a stadium in Fairgrounds Park in Loveland Colorado Saturday morning, September 14, 2013.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-L2WrwvQ/0/L/CD15HELIFLOOD_BP32942x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.386200</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.080592</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.080592,40.3862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Washing away</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-zj7vzmx/0/L/CD17FLOOD_AC_AC14629x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Colleen Keane, right, tries to salvage clothing by washing it out in the gutter in front of her home near Iris Ave and 9th St. in Boulder, Colorado Monday morning, September 16, 2103.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Washing away</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Colleen Keane, right, tries to salvage clothing by washing it out in the gutter in front of her home near Iris Ave and 9th St. in Boulder, Colorado Monday morning, September 16, 2103.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-zj7vzmx/0/L/CD17FLOOD_AC_AC14629x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.035949</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.286033</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.286033,40.035949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LYONS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LYONS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Cut Off</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-cF6CMt3/0/L/FLOODING_RJ13852-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">An aerial photograph shows the damage on McConnell Dr. in Lyons from the flood, September 13, 2013.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Cut Off</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>An aerial photograph shows the damage on McConnell Dr. in Lyons from the flood, September 13, 2013.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-cF6CMt3/0/L/FLOODING_RJ13852-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.217533</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.260719</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.260719,40.217533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Evans, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">Evans, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Saving what you can</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-JNH7Njm/0/L/FLOODING_RJ14360-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Residents walk down 37th street in Evans Colorado, carrying belongings recovered from flooded homes in the area. Aerial photographs of the Platte River flooding cities and farms in Weld County Colorado.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Saving what you can</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Residents walk down 37th street in Evans Colorado, carrying belongings recovered from flooded homes in the area. Aerial photographs of the Platte River flooding cities and farms in Weld County Colorado.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-JNH7Njm/0/L/FLOODING_RJ14360-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.377364</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.681684</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.681684,40.377364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Evans, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">Evans, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Destroyed</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-f5RrV6Q/0/L/FLOODING_RJ23433-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Evans Resident Rito Romero checks out the damage in his families flooded home, September 16, 2013.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Destroyed</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Evans Resident Rito Romero checks out the damage in his families flooded home, September 16, 2013.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-f5RrV6Q/0/L/FLOODING_RJ23433-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.377166</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.681058</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.681058,40.377166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LYONS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LYONS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Soaked</h2>
+
+<a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-Nwc6Cjm/0/L/FLOODING_RJ23006-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">An aerial photograph looking east form Lyons shows the damage from the flood, September 13, 2013. Massive flooding continues to hit Colorado.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Soaked</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>An aerial photograph looking east form Lyons shows the damage from the flood, September 13, 2013. Massive flooding continues to hit Colorado.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-Nwc6Cjm/0/L/FLOODING_RJ23006-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/14/photos-colorado-flood-damage-aerial-views/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.224828</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.268085</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.268085,40.224828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Rescued</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-Hc9t3WM/0/L/_SP17RESCUEFLIGHT_JA12994a-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Two ladies have a first look at Sgt 1st class Keith Bart as they are hoisted into a UH-60 Black Hawk near Jamestown during search and rescue flight with members of the 2-4 GSAB with the 4th ID of Fort Carson September 17, 2013.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Rescued</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Two ladies have a first look at Sgt 1st class Keith Bart as they are hoisted into a UH-60 Black Hawk near Jamestown during search and rescue flight with members of the 2-4 GSAB with the 4th ID of Fort Carson September 17, 2013.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-Hc9t3WM/0/L/_SP17RESCUEFLIGHT_JA12994a-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.107586</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.353915</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.353915,40.107586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Searchers</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-7DhjMcR/0/L/_SP17RESCUEFLIGHTJA3_0792a-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">FEMA personal are hoisted into a UH-60 Black Hawk during search grid  flights by members of the 2-4 GSAB with the 4th ID of Fort Carson September 17, 2013 Boulder, CO.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Searchers</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>FEMA personal are hoisted into a UH-60 Black Hawk during search grid  flights by members of the 2-4 GSAB with the 4th ID of Fort Carson September 17, 2013 Boulder, CO.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-7DhjMcR/0/L/_SP17RESCUEFLIGHTJA3_0792a-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.1072</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.353814</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.353814,40.1072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FT. COLLINS, CO.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">FT. COLLINS, CO.</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Help arrived</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-PjzRsx5/0/L/EVACUEES_JL7-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Evacuees are unloaded from Black Hawk helicopters September 17, 2013 at Christman Field in Fort Collins. Most evacuees had some belongings.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Help arrived</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Evacuees are unloaded from Black Hawk helicopters September 17, 2013 at Christman Field in Fort Collins. Most evacuees had some belongings.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-PjzRsx5/0/L/EVACUEES_JL7-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.094751</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.332623</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.332623,40.094751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER COUNTY, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER COUNTY, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Surrounded Cabin</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-zDk4fnR/0/L/cd13FLOODINGHHR_1236-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Longtime resident Gale Erlewine looks at his cabin, completely surrounded by the South St. Vrain river.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Surrounded Cabin</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Longtime resident Gale Erlewine looks at his cabin, completely surrounded by the South St. Vrain river.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-zDk4fnR/0/L/cd13FLOODINGHHR_1236-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.176389</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.435364</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.435364,40.176389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER COUNTY, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER COUNTY, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Wrecked Road</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-NNRGt5h/0/L/cd13FLOODINGHHR_1327-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Highway 7 is completely blown out from the South St. Vrain river</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Wrecked Road</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Highway 7 is completely blown out from the South St. Vrain river</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-NNRGt5h/0/L/cd13FLOODINGHHR_1327-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.168372</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.392791</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.392791,40.168372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Flooded Car</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-nWpxqCc/0/L/FLOODING_RJ22208-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Cenobio Chacon tries to get his sons car out of the path of the flood outside his home.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Flooded Car</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Cenobio Chacon tries to get his sons car out of the path of the flood outside his home.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-nWpxqCc/0/L/FLOODING_RJ22208-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.049501</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.26406</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.26406,40.049501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Checking Out the Damage</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-Jqg4v8j/0/L/FLOODING_RJ22377-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Casey Roy, 9, looks through an outside window at the damage in her families basement</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Checking Out the Damage</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Casey Roy, 9, looks through an outside window at the damage in her families basement</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-Jqg4v8j/0/L/FLOODING_RJ22377-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.047214</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.265462</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.265462,40.047214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AURORA, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">AURORA, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Field Under Water</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-TFdnQLJ/0/L/floodHC1_6998-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">People wade through the flooded Overland High School baseball field in Utah Park.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Field Under Water</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>People wade through the flooded Overland High School baseball field in Utah Park.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-TFdnQLJ/0/L/floodHC1_6998-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.682959</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.843357</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.843357,39.682959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER , CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER , CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Watching the River Rise</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-BX37MPS/0/L/_CD12boulder_JA21270a-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">People watch the high water in Boulder Creek after heavy rains caused flash flooding</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Watching the River Rise</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>People watch the high water in Boulder Creek after heavy rains caused flash flooding</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-BX37MPS/0/L/_CD12boulder_JA21270a-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.015062</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.278995</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.278995,40.015062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORRISON, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">MORRISON, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Opening the Valve</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-r8JKTSf/0/L/CD14FLOODING_2JL7426x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Ty Schmittel of Denver Water opens a valve to divert some of the rushing water in Bear Creek</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Opening the Valve</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Ty Schmittel of Denver Water opens a valve to divert some of the rushing water in Bear Creek</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-r8JKTSf/0/L/CD14FLOODING_2JL7426x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.652805</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.187452</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.187452,39.652805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVERGREEN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">EVERGREEN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Evergreen Dam</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-nCBZRnM/0/L/evergreen_damHC1_7242-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Jim Barber checks out Evergreen dam with his daughter Jenny and Jenny's daughter Carolyn Goodman, 2.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Evergreen Dam</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Jim Barber checks out Evergreen dam with his daughter Jenny and Jenny's daughter Carolyn Goodman, 2.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-nCBZRnM/0/L/evergreen_damHC1_7242-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.631296</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.322669</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.322669,39.631296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOULDER, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">BOULDER, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Flash Flood</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-xRjJ6zv/0/L/CD14BOULDERFLOODING_AC13149x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A vehicle stuck in the mud and rocks after being swept away in a flash flood.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Flash Flood</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A vehicle stuck in the mud and rocks after being swept away in a flash flood.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-xRjJ6zv/0/L/CD14BOULDERFLOODING_AC13149x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.043123</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.300461</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.300461,40.043123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEDERLAND, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">NEDERLAND, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Rock Slide</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-7GzXSzg/0/L/cd13FLOODINGHHR_1642-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A rock slide covers Boulder Canyon Drive.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Rock Slide</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A rock slide covers Boulder Canyon Drive.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-7GzXSzg/0/L/cd13FLOODINGHHR_1642-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.001555</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.413257</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.413257,40.001555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORRISON, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">MORRISON, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Evacuating Bear Creek</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-X5zDcNr/0/L/091313_FLOOD_CFW_00330x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Jonny Smith helps Kaitlin Sprecken evacuate her home along Bear Creek.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Evacuating Bear Creek</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Jonny Smith helps Kaitlin Sprecken evacuate her home along Bear Creek.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-X5zDcNr/0/L/091313_FLOOD_CFW_00330x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.652879</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.187796</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.187796,39.652879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WELD COUNTY, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">WELD COUNTY, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Flooded Farm</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-mB28mwp/0/L/CD13WELDFLOODS_KO13976-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">The South Platte River over-runs its banks flooding farmland in Weld County.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Flooded Farm</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>The South Platte River over-runs its banks flooding farmland in Weld County.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-mB28mwp/0/L/CD13WELDFLOODS_KO13976-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.362765</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.682952</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.682952,40.362765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HYGIENE, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">HYGIENE, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Closing In</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-L8BgC3v/0/L/cd15FLOODINGDSC_1797-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Flood waters consume a house along Hygiene Road.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Closing In</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Flood waters consume a house along Hygiene Road.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-L8BgC3v/0/L/cd15FLOODINGDSC_1797-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.188791</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.204953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.204953,40.188791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SALINA, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">SALINA, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Mountain Rescue</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-47X4tmg/0/L/_CD13SALINA_JA10733a-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Darian Shaw is rescued by the Alpine Rescue Team using a high line and a sling to move her across the raging water</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Mountain Rescue</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Darian Shaw is rescued by the Alpine Rescue Team using a high line and a sling to move her across the raging water</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-47X4tmg/0/L/_CD13SALINA_JA10733a-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.051024</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.37466</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.37466,40.051024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGMONT, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LONGMONT, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Hole in the Road</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-s4xx4GQ/0/L/091413_FLOOD_CFW_02779-001-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Philip Smith looks over a washed out bridge</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Hole in the Road</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Philip Smith looks over a washed out bridge</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-s4xx4GQ/0/L/091413_FLOOD_CFW_02779-001-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.196052</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.207537</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.207537,40.196052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HYGIENE, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">HYGIENE, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Looking for Damage</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-hKXqNHB/0/L/091413_FLOOD_CFW_02061x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Jon Cook drives down Hygiene Road with his father, Bob, while looking over flooding on neighbors property</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Looking for Damage</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Jon Cook drives down Hygiene Road with his father, Bob, while looking over flooding on neighbors property</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-hKXqNHB/0/L/091413_FLOOD_CFW_02061x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.188972</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.182261</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.182261,40.188972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGMONT, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LONGMONT, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Flooded Streets</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-rL45fPs/0/L/cd15FLOODINGDSC_1964-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Talvin DeWitt, 9, left and Bodin Bichon, 8, wade through the water surrounding their neighbor's house</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Flooded Streets</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Talvin DeWitt, 9, left and Bodin Bichon, 8, wade through the water surrounding their neighbor's house</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-rL45fPs/0/L/cd15FLOODINGDSC_1964-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.168306</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.131716</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.131716,40.168306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JAMESTOWN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">JAMESTOWN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Main Street</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-bTFkPnV/0/L/cd16FLOODINGHHR_2744-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">The Little Jim Creek rages over what used to be Main Street.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Main Street</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>The Little Jim Creek rages over what used to be Main Street.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-bTFkPnV/0/L/cd16FLOODINGHHR_2744-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.114519</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.384604</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.384604,40.114519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HYGIENE, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">HYGIENE, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">A Helping Hand</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-CPnHWRG/0/L/091413_FLOOD_CFW_02452x-002-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Dan Hull, center, is assisted by Brian Marquardt, left, and Scott Johnson after rescuing Hull's two cats and gathering some items from his flooded home</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>A Helping Hand</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Dan Hull, center, is assisted by Brian Marquardt, left, and Scott Johnson after rescuing Hull's two cats and gathering some items from his flooded home</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-CPnHWRG/0/L/091413_FLOOD_CFW_02452x-002-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.188715</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.181628</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.181628,40.188715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JAMESTOWN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">JAMESTOWN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Stranded Vehicles</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-NP4TQMZ/0/L/cd16FLOODINGHHR_2545-001-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">An engine from the Jamestown Volunteer Fire Department and another car are stranded on Main Street.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Stranded Vehicles</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>An engine from the Jamestown Volunteer Fire Department and another car are stranded on Main Street.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-NP4TQMZ/0/L/cd16FLOODINGHHR_2545-001-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.11525</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.386023</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.386023,40.11525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESTES PARK, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">ESTES PARK, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Digging Out</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-rZNcDH5/0/L/CD15ESTESFLOODS_KO21223-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A front-loader dumps mud in to a large pile at the edge of a parking lot for a row of business</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Digging Out</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A front-loader dumps mud in to a large pile at the edge of a parking lot for a row of business</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-rZNcDH5/0/L/CD15ESTESFLOODS_KO21223-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.377634</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.517568</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.517568,40.377634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGMONT, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LONGMONT, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Road Waterfall</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-KxKC4VK/0/L/091513_FLOOD_CFW_05006x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">St. Vrain River rose quickly wiping out this eastbound lane of traffic.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Road Waterfall</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>St. Vrain River rose quickly wiping out this eastbound lane of traffic.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-KxKC4VK/0/L/091513_FLOOD_CFW_05006x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.174135</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.137424</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.137424,40.174135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGMONT, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LONGMONT, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Cleaning Out</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-zfstDkq/0/L/LONGMONT_FLOODHC2_0696-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Kathy Cowley and Michelle Henry comfort each other while Eduardo Palomares, 17, moves the mud out from the basement of Stan McDonald's house</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Cleaning Out</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Kathy Cowley and Michelle Henry comfort each other while Eduardo Palomares, 17, moves the mud out from the basement of Stan McDonald's house</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-zfstDkq/0/L/LONGMONT_FLOODHC2_0696-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.168692</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.132726</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.132726,40.168692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGMONT, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LONGMONT, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Torn Up Road</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-sZjx4hB/0/L/091513_FLOOD_CFW_04896x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Hayden Court collapsed during the flooding of the Troxell neighborhood</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Torn Up Road</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Hayden Court collapsed during the flooding of the Troxell neighborhood</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-sZjx4hB/0/L/091513_FLOOD_CFW_04896x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.172791</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.139271</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.139271,40.172791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGMONT, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LONGMONT, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Washed Out Tracks</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-5Mc4Sh4/0/L/091513_FLOOD_CFW_04163x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Washed out railroad tracks in The Greens neighborhood</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Washed Out Tracks</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Washed out railroad tracks in The Greens neighborhood</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-5Mc4Sh4/0/L/091513_FLOOD_CFW_04163x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.176324</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.151564</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.151564,40.176324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JAMESTOWN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">JAMESTOWN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Destroyed House</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-WRR8Ld4/0/L/cd16FLOODINGHHR_2046-001-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A house lays destroyed after being swept away by the Little Jim Creek.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Destroyed House</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A house lays destroyed after being swept away by the Little Jim Creek.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-WRR8Ld4/0/L/cd16FLOODINGHHR_2046-001-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.116267</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.389896</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.389896,40.116267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GLEN HAVEN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">GLEN HAVEN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Downtown Glen Haven</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-xLT9Pp9/0/L/cd17FLOODINGDSC_3186-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A massive pile of uprooted trees and debris sits up against the Town Hall along Main Street</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Downtown Glen Haven</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A massive pile of uprooted trees and debris sits up against the Town Hall along Main Street</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-xLT9Pp9/0/L/cd17FLOODINGDSC_3186-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.453389</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.449257</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.449257,40.453389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JAMESTOWN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">JAMESTOWN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Joey Howlett</h2>
+
+<a href="http://photos.denverpost.com/2013/09/17/colorado-floods-kill-jamestown-resident-joey-howlett/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-wpdbgdG/0/L/Mercantile003-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Neighbors and friends talk about Jamestown resident Joey Howlett, killed in the flood.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/17/colorado-floods-kill-jamestown-resident-joey-howlett/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">Watch the video<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Joey Howlett</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Neighbors and friends talk about Jamestown resident Joey Howlett, killed in the flood.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-wpdbgdG/0/L/Mercantile003-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>Watch the video</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/17/colorado-floods-kill-jamestown-resident-joey-howlett/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.115791</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.388419</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.388419,40.115791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGMONT, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LONGMONT, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Surveying the Mess</h2>
+
+<a href="http://photos.denverpost.com/2013/09/17/video-longmont-residents-return-to-flooded-homes/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-5zDxwk6/0/L/CD17LONGMONTFLOODS_KO21842-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">19-year Longmont resident Rose Womack talks about escaping the flood.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/17/video-longmont-residents-return-to-flooded-homes/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">Watch the video<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Surveying the Mess</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>19-year Longmont resident Rose Womack talks about escaping the flood.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-5zDxwk6/0/L/CD17LONGMONTFLOODS_KO21842-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>Watch the video</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/17/video-longmont-residents-return-to-flooded-homes/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.171192</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.138915</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.138915,40.171192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GLEN HAVEN, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">GLEN HAVEN, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Hug from a Neighbor</h2>
+
+<a href="http://photos.denverpost.com/2013/09/18/video-colorado-flooding-hits-glen-haven/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-bBgSVZ3/0/L/cd17FLOODINGDSC_2906-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Flood waters and debris swept through Glen Haven destroying 2 to 3 dozen structures.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/18/video-colorado-flooding-hits-glen-haven/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">Watch the video<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Hug from a Neighbor</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Flood waters and debris swept through Glen Haven destroying 2 to 3 dozen structures.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-bBgSVZ3/0/L/cd17FLOODINGDSC_2906-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>Watch the video</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/18/video-colorado-flooding-hits-glen-haven/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.453564</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.449101</value>
+				</Data>
+			</ExtendedData>
+			<address>40.453564</address>
+		</Placemark>
+		<Placemark>
+			<name>LYONS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LYONS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Broken Bridge</h2>
+
+<a href="http://photos.denverpost.com/2013/09/18/video-colorado-flooding-changes-course-of-the-st-vrain-river-in-lyons-co/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-fzqQVtv/0/L/091813_FLOOD_CFW_06983x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Sgt. Kevin Parker from the Boulder Police Department shows where the St. Vrain River changed course.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/18/video-colorado-flooding-changes-course-of-the-st-vrain-river-in-lyons-co/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">Watch the video<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Broken Bridge</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Sgt. Kevin Parker from the Boulder Police Department shows where the St. Vrain River changed course.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-fzqQVtv/0/L/091813_FLOOD_CFW_06983x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>Watch the video</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/18/video-colorado-flooding-changes-course-of-the-st-vrain-river-in-lyons-co/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.217823</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.260183</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.260183,40.217823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESTES PARK, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">ESTES PARK, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Getting the Mud Out</h2>
+
+<a href="http://photos.denverpost.com/2013/09/18/video-estes-park-business-patiently-waiting-out-flood/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-GJ6rqcq/0/L/CD18ESTESPARKTOUR_AC14917x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Flooding halts tourism business in Estes Park.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/18/video-estes-park-business-patiently-waiting-out-flood/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">Watch the video<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Getting the Mud Out</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Flooding halts tourism business in Estes Park.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-GJ6rqcq/0/L/CD18ESTESPARKTOUR_AC14917x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>Watch the video</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/18/video-estes-park-business-patiently-waiting-out-flood/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.376138</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.524385</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.524385,40.376138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LYONS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">LYONS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Historic Building</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-MQsZ9dr/0/L/091813_FLOOD_CFW_07074x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A historic building dating back to the 1800's was destroyed by flooding in Meadow Park</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Historic Building</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A historic building dating back to the 1800's was destroyed by flooding in Meadow Park</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-MQsZ9dr/0/L/091813_FLOOD_CFW_07074x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>40.223255</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.273583</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.273583,40.223255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>COAL CREEK CANYON, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">COAL CREEK CANYON, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Hanging Track</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-BxXN8Wv/0/L/CD19ELDORADOFLOOD_AC14843x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A crew walks underneath a section of Union Pacific railroad track, close to a large platform that completely washed out</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood photos<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Hanging Track</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A crew walks underneath a section of Union Pacific railroad track, close to a large platform that completely washed out</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-BxXN8Wv/0/L/CD19ELDORADOFLOOD_AC14843x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood photos</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.912977</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.282466</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.282466,39.912977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AURORA, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">AURORA, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Flooded Park</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-dxmGxK4/0/L/091213_FLOOD_CFW_13362x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A man looks over the flooded Expo Park</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Flooded Park</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A man looks over the flooded Expo Park</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-dxmGxK4/0/L/091213_FLOOD_CFW_13362x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.70464</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.859637</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.859637,39.70464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>COMMERCE CITY, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">COMMERCE CITY, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Fairfax Park</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-RsvzNPg/0/L/floodIMG_3116-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">Flood waters rose as evacuations were ordered for Fairfax Park Neighborhood.</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Fairfax Park</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>Flood waters rose as evacuations were ordered for Fairfax Park Neighborhood.</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-RsvzNPg/0/L/floodIMG_3116-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.827061</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-104.922139</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.922139,39.827061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELDORADO SPRINGS, CO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:300px;height:380px">
+
+<p style="color:#707070;font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 10px 0">ELDORADO SPRINGS, CO</p>
+
+<h2 style="font-weight:bold;font-family:Georgia,Times,serif;line-height:20px;font-size:18px;margin:5px 10px">Waterfront Home</h2>
+
+<a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank"><img src="http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-kqGzFPT/0/L/CD19ELDORADOFLOOD_AC14986x-L.jpg" width="280" border="0" style="vertical-align:top;display:block;clear:both;margin:10px;width:280px"></a>
+
+<p style="font-size:14px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:17px;margin:5px 10px 0">A home very close to the edge of a still raging South Boulder Creek</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0"><a href="http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/" target="_blank" style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 10px">See more flood images<br>
+
+<div style="width:100%;clear:both;height:5px;display:block"></div>
+</a></p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='HEADLINE'>
+					<value>Waterfront Home</value>
+				</Data>
+				<Data name='LINK'>
+					<value></value>
+				</Data>
+				<Data name='DESCRPTION'>
+					<value>A home very close to the edge of a still raging South Boulder Creek</value>
+				</Data>
+				<Data name='PHOTO ADDRESS'>
+					<value>http://dpostphoto.smugmug.com/DENVERPOST/Flood-fusion-table/i-kqGzFPT/0/L/CD19ELDORADOFLOOD_AC14986x-L.jpg</value>
+				</Data>
+				<Data name='URL TEXT'>
+					<value>See more flood images</value>
+				</Data>
+				<Data name='GALLERY/VIDIO LINK'>
+					<value>http://photos.denverpost.com/2013/09/12/photos-massive-flash-flooding-along-front-range-of-colorado/</value>
+				</Data>
+				<Data name='LATITUDE'>
+					<value>39.932446</value>
+				</Data>
+				<Data name='LONGITUDE'>
+					<value>-105.276846</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.276846,39.932446,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

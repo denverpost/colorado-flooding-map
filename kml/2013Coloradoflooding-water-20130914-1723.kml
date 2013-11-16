@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>2013Coloradoflooding-water</name>
+		<Style id='Style1-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style1-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style1-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style1-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style1-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Firestone</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Firestone</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Water advisory:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Boil Water, Conserve Water</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">There is a mandatory water conservation and restriction that went into effect on Friday night. A boil water advisory was issued Saturday afternoon.</p>
+
+</p></div>]]></description>
+			<styleUrl>#Style1-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Type'>
+					<value>Boil Water, Conserve Water</value>
+				</Data>
+				<Data name='Message'>
+					<value>There is a mandatory water conservation and restriction that went into effect on Friday night. A boil water advisory was issued Saturday afternoon.</value>
+				</Data>
+				<Data name=''>
+					<value>40.4134606</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>-105.2531417</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>caution</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.2531417,40.4134606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jamestown</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Jamestown</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Water advisory:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Outage</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">There is no running water service, according to Boulder County Office of Emergency Management.</p>
+
+</p></div>]]></description>
+			<styleUrl>#Style1-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Type'>
+					<value>Outage</value>
+				</Data>
+				<Data name='Message'>
+					<value>There is no running water service, according to Boulder County Office of Emergency Management.</value>
+				</Data>
+				<Data name=''>
+					<value>40.109637</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>-104.96203</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>caution</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.96203,40.109637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boulder County</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Boulder County</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Water advisory:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Boil Water</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">A boil water order was issued for those served by the Left Hand Water district only, if you are served by Left Hand Water district you would pay your bill directly to them.</p>
+
+</p></div>]]></description>
+			<styleUrl>#Style1-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Type'>
+					<value>Boil Water</value>
+				</Data>
+				<Data name='Message'>
+					<value>A boil water order was issued for those served by the Left Hand Water district only, if you are served by Left Hand Water district you would pay your bill directly to them.</value>
+				</Data>
+				<Data name=''>
+					<value>40.1424894</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>-104.946702</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>caution</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.946702,40.1424894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lyons</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Lyons</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Water advisory:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Boil Water</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">A boil water order is also active for the Town of Lyons.</p>
+
+</p></div>]]></description>
+			<styleUrl>#Style1-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Type'>
+					<value>Boil Water</value>
+				</Data>
+				<Data name='Message'>
+					<value>A boil water order is also active for the Town of Lyons.</value>
+				</Data>
+				<Data name=''>
+					<value>40.0878355</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>-105.373507</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>caution</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.373507,40.0878355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estes Park</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Estes Park</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Water advisory:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Outage</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">Water outage still exists for some areas, but the town says the boil water order was lifted Saturday morning.</p>
+
+</p></div>]]></description>
+			<styleUrl>#Style1-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Type'>
+					<value>Outage</value>
+				</Data>
+				<Data name='Message'>
+					<value>Water outage still exists for some areas, but the town says the boil water order was lifted Saturday morning.</value>
+				</Data>
+				<Data name=''>
+					<value>40.223349</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>-105.268411</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>caution</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.268411,40.223349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Frederick</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Frederick</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Water advisory:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Boil Water</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">A boil water advisory is in effect because of a reported break in the Central Weld County Water District main. This caused a loss of pressure that could have resulted in contamination, although none has been detected at this time.</p>
+
+</p></div>]]></description>
+			<styleUrl>#Style1-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Type'>
+					<value>Boil Water</value>
+				</Data>
+				<Data name='Message'>
+					<value>A boil water advisory is in effect because of a reported break in the Central Weld County Water District main. This caused a loss of pressure that could have resulted in contamination, although none has been detected at this time.</value>
+				</Data>
+				<Data name=''>
+					<value>40.3663825</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>-105.5331481</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>caution</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.5331481,40.3663825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Evans</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Evans</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Water advisory:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Wastewater Treatment</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">Officials say the drinking water is safe, but some residents are being asked not to flush because of a wastewater treatment problem. The area affected is serviced by the Evans Wastewater Treatment Plant. Rough borders of the affected area are: south of 32nd St.  to the city limits and east of 35th Ave.</p>
+
+</p></div>]]></description>
+			<styleUrl>#Style1-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Type'>
+					<value>Wastewater Treatment</value>
+				</Data>
+				<Data name='Message'>
+					<value>Officials say the drinking water is safe, but some residents are being asked not to flush because of a wastewater treatment problem. The area affected is serviced by the Evans Wastewater Treatment Plant. Rough borders of the affected area are: south of 32nd St.  to the city limits and east of 35th Ave.</value>
+				</Data>
+				<Data name=''>
+					<value>40.1180713</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>-105.3897049</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>caution</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.3897049,40.1180713,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

@@ -1,0 +1,889 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>2013Coloradoflooding-shelters</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/rec_lodging.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/rec_lodging.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Boulder</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Boulder</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">YMCA of Boulder Valley</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">2850 Mapleton Avenue<br>Boulder, CO 80301<br>(303) 442-2778</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>YMCA of Boulder Valley</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>2850 Mapleton Avenue&lt;br&gt;Boulder, CO 80301&lt;br&gt;(303) 442-2778</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.024727</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.257706</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.257706,40.024727,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allenspark</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Allenspark</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Highlands Presbyterian Camp and Retreat</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">1306 Business Hwy 7<br>Allenspark, CO 80510<br>(303) 747-2888</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0">• Camp has pillows, blankets and beds.</p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Highlands Presbyterian Camp and Retreat</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>1306 Business Hwy 7&lt;br&gt;Allenspark, CO 80510&lt;br&gt;(303) 747-2888</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value>&amp;bull; Camp has pillows, blankets and beds.</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.189381</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.509659</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.509659,40.189381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Longmont</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Longmont</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">St. Vrain Memorial Building</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">700 Longs Peak Ave<br>Longmont, CO 80501<br>(303) 651-8404</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>St. Vrain Memorial Building</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>700 Longs Peak Ave&lt;br&gt;Longmont, CO 80501&lt;br&gt;(303) 651-8404</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.170765</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.103714</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.103714,40.170765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Loveland</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Loveland</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Thompson Valley Schools administration building</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">800 S Taft Ave<br>Loveland, CO 80537</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Thompson Valley Schools administration building</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>800 S Taft Ave&lt;br&gt;Loveland, CO 80537</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.383839</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.095985</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.095985,40.383839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nederland</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Nederland</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Nederland Community Center</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">750 Colorado 72<br>Nederland, CO 80466<br>(303) 258-9721</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Nederland Community Center</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>750 Colorado 72&lt;br&gt;Nederland, CO 80466&lt;br&gt;(303) 258-9721</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.964706</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.512215</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.512215,39.964706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Longmont</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Longmont</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Niwot High School</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">8989 Niwot High School<br>Niwot, CO 80503</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0">• All occupants of shelter at Silver Creek High School relocated to Niwot High.</p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Niwot High School</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>8989 Niwot High School&lt;br&gt;Niwot, CO 80503</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value>&amp;bull; All occupants of shelter at Silver Creek High School relocated to Niwot High.</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.103352</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.144264</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.144264,40.103352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estes Park</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Estes Park</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Mountain View Bible Fellowship</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">Colorado 7<br>Estes Park, CO 80517<br>(970) 586-3395</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Mountain View Bible Fellowship</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>Colorado 7&lt;br&gt;Estes Park, CO 80517&lt;br&gt;(970) 586-3395</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.354671</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.506432</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.506432,40.354671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mead</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Mead</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Mead High School</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">12750 County Road 7<br>Longmont, CO 80504<br>(720) 494-3940</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Mead High School</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>12750 County Road 7&lt;br&gt;Longmont, CO 80504&lt;br&gt;(720) 494-3940</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.185898</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.998344</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.998344,40.185898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Milliken</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Milliken</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Milliken Middle School</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">266 South Irene Street<br>Milliken, CO 80543<br>970-587-6300</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Milliken Middle School</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>266 South Irene Street&lt;br&gt;Milliken, CO 80543&lt;br&gt;970-587-6300</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.3280518</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.85816</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.85816,40.3280518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erie</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Erie</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Erie Community Center</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">450 Powers St<br>Erie, CO 80516<br>(303) 926-2550</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Erie Community Center</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>450 Powers St&lt;br&gt;Erie, CO 80516&lt;br&gt;(303) 926-2550</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.037495</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.052338</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.052338,40.037495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lyons</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Lyons</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Lyons Elementary school</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">338 High St<br>Lyons, CO 80540<br>(303) 823-6915</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Lyons Elementary school</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>338 High St&lt;br&gt;Lyons, CO 80540&lt;br&gt;(303) 823-6915</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.225468</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.269676</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.269676,40.225468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fort Collins</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Fort Collins</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Timberline Church</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">2908 South Timberline Road<br>Fort Collins, CO 80525</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Timberline Church</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>2908 South Timberline Road&lt;br&gt;Fort Collins, CO 80525</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.547462</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.037170</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.03717,40.547462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/stable.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-2-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/stable.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Boulder - Pets</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Boulder - Pets</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Boulder Valley Humane Society</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">2323 55th St<br>Boulder, CO 80301<br>(303) 442-4030</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0">• Small pets.</p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Boulder Valley Humane Society</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>2323 55th St&lt;br&gt;Boulder, CO 80301&lt;br&gt;(303) 442-4030</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value>&amp;bull; Small pets.</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.022358</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.226524</value>
+				</Data>
+				<Data name='icontype'>
+					<value>stable</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.226524,40.022358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boulder - Livestock</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Boulder - Livestock</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Boulder County Fairgrounds</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">9595 Nelson Rd<br>Longmont, CO 80501<br>(303) 678-6235</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0">• Large animal shelter.</p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Boulder County Fairgrounds</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>9595 Nelson Rd&lt;br&gt;Longmont, CO 80501&lt;br&gt;(303) 678-6235</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value>&amp;bull; Large animal shelter.</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.153481</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.128654</value>
+				</Data>
+				<Data name='icontype'>
+					<value>stable</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.128654,40.153481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manitou Springs</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Manitou Springs</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">First Congressional Church</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">101 Pawnee Ave.<br>Manitou Springs, Colorado 80829</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>First Congressional Church</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>101 Pawnee Ave.&lt;br&gt;Manitou Springs, Colorado 80829</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.856403</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.913696</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.913696,38.856403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jefferson County</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Jefferson County</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Arvada Senior High School</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">7951 W 65th Ave<br>Arvada, CO 80004<br>(303) 982-0162</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0">• Ralston High School is no longer the Jefferson County evacuation site.</p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Arvada Senior High School</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>7951 W 65th Ave&lt;br&gt;Arvada, CO 80004&lt;br&gt;(303) 982-0162</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value>&amp;bull; Ralston High School is no longer the Jefferson County evacuation site.</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.815811</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.084912</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.084912,39.815811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Denver/Aurora</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Denver/Aurora</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Evie Dennis Elementary School</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">4800 Telluride Street<br>Denver, CO 80249</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Evie Dennis Elementary School</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>4800 Telluride Street&lt;br&gt;Denver, CO 80249</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.784615</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.779701</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.779701,39.784615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Commerce City</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Commerce City</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Adams City High School</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">7200 Quebec Pkwy<br>Commerce City, CO 80022<br>(303) 289-3111</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Adams City High School</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>7200 Quebec Pkwy&lt;br&gt;Commerce City, CO 80022&lt;br&gt;(303) 289-3111</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.827820</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.900764</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.900764,39.82782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Greeley</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Greeley</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Greeley Recreation Center</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">651 10th Ave<br>Greeley, CO 80631<br>(970) 350-9400</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Greeley Recreation Center</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>651 10th Ave&lt;br&gt;Greeley, CO 80631&lt;br&gt;(970) 350-9400</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.429355</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.7632645</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.7632645,40.429355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fort Morgan</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Fort Morgan</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Fort Morgan Middle School</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">300 Deuel Street<br>Fort Morgan, CO 80701</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Fort Morgan Middle School</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>300 Deuel Street&lt;br&gt;Fort Morgan, CO 80701</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.2502611</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-103.8073849</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<address>40.2502611</address>
+		</Placemark>
+		<Placemark>
+			<name>Evans</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="width:250px;height:200px">
+<p style="font-weight:bold;font-size:12px;text-transform:uppercase;font-family:Helvetica,Arial,sans-serif;line-height:13px;margin:5px 0 0">Evans</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0">Shelter at:<br>
+
+<p style="font-weight:bold;font-family:Georgia,Times,serif;line-height:18px;font-size:15px;margin:5px 0">Evans Community Center</p>
+
+<p style="font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:15px;margin:5px 0 0">1100 37th Street<br>Evans, CO 80620</p>
+
+<p style="font-size:13px;font-variant:italic;font-family:Helvetica,Arial,sans-serif;font-weight:normal;line-height:15px;margin:8px 0"></p>
+</p></div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shelter Name'>
+					<value>Evans Community Center</value>
+				</Data>
+				<Data name='Shelter address'>
+					<value>1100 37th Street&lt;br&gt;Evans, CO 80620</value>
+				</Data>
+				<Data name='Shelter notes'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.3890395</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-104.7449401</value>
+				</Data>
+				<Data name='icontype'>
+					<value>rec_lodging</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.7449401,40.3890395,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

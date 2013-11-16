@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Colorado floods</name>
+  <description><![CDATA[Key points of interest in the Colorado floods.]]></description>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/rangerstation.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/horsebackriding.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Boulder Shelter</name>
+    <description><![CDATA[<div dir="ltr"> The Red Cross has opened a shelter at YMCA of Boulder Valley, 2850 Mapleton Ave. </div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-105.257706,40.024727,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Allenspark Shelter</name>
+    <description><![CDATA[<div dir="ltr">Highlands Presbyterian Camp and Retreat — located at 1306 Business Highway 7 in Allenspark —  which is a camp that has pillows, blankets and beds </div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-105.509659,40.189381,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nederland Shelter</name>
+    <description><![CDATA[<font face="arial" size="2">Nederland Community Center, located at 750 Colorado Highway 72 is open</font>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-105.512215,39.964706,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Longmont Shelter</name>
+    <description><![CDATA[<font face="arial" size="2">Residents may go to the Memorial Building and Recreation Center, located at 700 Longs Peak Ave.</font>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-105.103714,40.170765,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Longmont Shelter</name>
+    <description><![CDATA[<div dir="ltr">Red Cross shelter at:<br><br>&lt;b&gt;&lt;a href="http://nhs.stvrain.k12.co.us/" target="_blank"&gt;Niwot High School&lt;/a&gt;&lt;/b&gt;<br>8989 Niwot High School<br>Niwot, CO 80503<br><br>All occupants of shelter at Silver Creek High School relocated to Niwot High.</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-105.144264,40.103352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Erie Shelter</name>
+    <description><![CDATA[Residents may also go to the Erie Community center, located at 450 Powers Street]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-105.052338,40.037495,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Small Pet Shelter</name>
+    <description><![CDATA[Evacuees may take their smaller pets to the Boulder Valley Humane Society, located at 2323 55th Street.&nbsp;]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-105.226524,40.022358,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Large animal shelter</name>
+    <description><![CDATA[<font face="arial" size="2">Larger animals may be taken to the Boulder County Fairgrounds, located at 9595 Nelson Road in Longmont.&nbsp;</font>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-105.128654,40.153481,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lyons Shelter</name>
+    <description><![CDATA[<font face="arial" size="2">In Lyons, residents may go to Lyons Elementary school, located at 338 High St.</font>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-105.269676,40.225468,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Estes Park Shelter</name>
+    <description><![CDATA[<div dir="ltr">Residents in Estes Park may go to the evacuation center at the &lt;b&gt;&lt;a href="http://www.mvbf.org/" target="_blank"&gt;Mountain View Bible Fellowship&lt;/a&gt;&lt;/b&gt;, located near Highway 7 and Peak View Drive.<br><br>Colorado 7<br>Estes Park, CO 80517<br>(970) 586-3395</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-105.506432,40.354671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Loveland Shelter</name>
+    <description><![CDATA[In Loveland, a shelter has been set up at the &nbsp;Thompson Valley Schools Administration building, located at 800 S. Taft Ave.]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-105.095985,40.383839,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Manitou Springs Shelter</name>
+    <description><![CDATA[<span style="color:rgb(51, 51, 51);font-size:15px;line-height:22.640625px;background-color:rgb(255, 255, 255)">A shelter has also been set in in Manitou Springs, at the First Congressional Church at 103 Pawnee Ave.</span>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-104.913696,38.856403,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mead Shelter</name>
+    <description><![CDATA[<span style="color:rgb(51, 51, 51);font-size:15px;line-height:22.640625px;background-color:rgb(255, 255, 255)">&nbsp;The St. Vrain Valley School District Mead High School has been set up as a shelter for Longmont residents. The high school is located at 12750 County Road 7.</span>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-104.998344,40.185898,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort Collins Shelter</name>
+    <description><![CDATA[<div dir="ltr">Red Cross shelter at:<br><br>&lt;b&gt;&lt;a href="http://http://www.timberlinechurch.org/" target="_blank"&gt;Timberline Church&lt;/a&gt;&lt;/b&gt;<br>2908 South Timberline Road<br>Fort Collins, CO 80525</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-105.037170,40.547462,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Denver/Aurora Shelter</name>
+    <description><![CDATA[<div dir="ltr">Red Cross shelter at:<br><br>&lt;b&gt;Evie Dennis Elementary School&lt;/b&gt;<br>4800 Telluride Street<br>Denver, CO 80249</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-104.779701,39.784615,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Commerce City Shelter</name>
+    <description><![CDATA[<div dir="ltr">Red Cross shelter at:<br><br>&lt;b&gt;&lt;a href="http://www.adams14.org/adams-city-high-school" target="_blank"&gt;Adams City High School&lt;/a&gt;&lt;/b&gt;<br>7200 Quebec Pkwy<br>Commerce City, CO 80022<br>(303) 289-3111</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-104.900764,39.827820,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

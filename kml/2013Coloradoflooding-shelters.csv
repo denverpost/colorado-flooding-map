@@ -1,0 +1,20 @@
+Shelter Location,Shelter Name,Shelter address,Shelter notes,Latitude,Longitude,icontype
+Boulder,YMCA of Boulder Valley,"2850 Mapleton Avenue<br>Boulder, CO 80301<br>(303) 442-2778",,40.024727,-105.257706,rec_lodging
+Allenspark,Highlands Presbyterian Camp and Retreat,"1306 Business Hwy 7<br>Allenspark, CO 80510<br>(303) 747-2888","&bull; Camp has pillows, blankets and beds.",40.189381,-105.509659,rec_lodging
+Longmont,St. Vrain Memorial Building,"700 Longs Peak Ave<br>Longmont, CO 80501<br>(303) 651-8404",,40.170765,-105.103714,rec_lodging
+Loveland,Thompson Valley Schools administration building,"800 S Taft Ave<br>Loveland, CO 80537",,40.383839,-105.095985,rec_lodging
+Nederland,Nederland Community Center,"750 Colorado 72<br>Nederland, CO 80466<br>(303) 258-9721",,39.964706,-105.512215,rec_lodging
+Longmont,Niwot High School,"8989 Niwot High School<br>Niwot, CO 80503",&bull; All occupants of shelter at Silver Creek High School relocated to Niwot High.,40.103352,-105.144264,rec_lodging
+Estes Park,Mountain View Bible Fellowship,"Colorado 7<br>Estes Park, CO 80517<br>(970) 586-3395",,40.354671,-105.506432,rec_lodging
+Mead,Mead High School,"12750 County Road 7<br>Longmont, CO 80504<br>(720) 494-3940",,40.185898,-104.998344,rec_lodging
+Milliken,Milliken Middle School,"266 South Irene Street<br>Milliken, CO 80543<br>970-587-6300",,40.3280518,-104.85816,rec_lodging
+Erie,Erie Community Center,"450 Powers St<br>Erie, CO 80516<br>(303) 926-2550",,40.037495,-105.052338,rec_lodging
+Lyons,Lyons Elementary school,"338 High St<br>Lyons, CO 80540<br>(303) 823-6915",,40.225468,-105.269676,rec_lodging
+Fort Collins,Timberline Church,"2908 South Timberline Road<br>Fort Collins, CO 80525",,40.547462,-105.037170,rec_lodging
+Boulder - Pets,Boulder Valley Humane Society,"2323 55th St<br>Boulder, CO 80301<br>(303) 442-4030",&bull; Small pets.,40.022358,-105.226524,stable
+Boulder - Livestock,Boulder County Fairgrounds,"9595 Nelson Rd<br>Longmont, CO 80501<br>(303) 678-6235",&bull; Large animal shelter.,40.153481,-105.128654,stable
+Manitou Springs,First Congressional Church,"101 Pawnee Ave.<br>Manitou Springs, Colorado 80829",,38.856403,-104.913696,rec_lodging
+Jefferson County,Arvada Senior High School,"7951 W 65th Ave<br>Arvada, CO 80004<br>(303) 982-0162",&bull; Ralston High School is no longer the Jefferson County evacuation site.,39.815811,-105.084912,rec_lodging
+Denver/Aurora,Evie Dennis Elementary School,"4800 Telluride Street<br>Denver, CO 80249",,39.784615,-104.779701,rec_lodging
+Commerce City,Adams City High School,"7200 Quebec Pkwy<br>Commerce City, CO 80022<br>(303) 289-3111",,39.827820,-104.900764,rec_lodging
+Greeley,Greeley Recreation Center,"651 10th Ave<br>Greeley, CO 80631<br>(970) 350-9400",,40.429355,-104.7632645,rec_lodging
